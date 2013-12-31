@@ -1,0 +1,8 @@
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\bin\Debug\Login en Facebook sin API - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\bin\Debug\Login en Facebook sin API - Vozidea.com.pdb
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login_en_Facebook_sin_API___Vozidea.com.Form1.resources
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login_en_Facebook_sin_API___Vozidea.com.Properties.Resources.resources
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login en Facebook sin API - Vozidea.com.csproj.GenerateResource.Cache
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login en Facebook sin API - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login en Facebook sin API - Vozidea.com.pdb
+C:\Users\VA\documents\visual studio 2010\Projects\Login en Facebook sin API - Vozidea.com\Login en Facebook sin API - Vozidea.com\obj\x86\Debug\Login en Facebook sin API - Vozidea.com.csprojResolveAssemblyReference.cache
